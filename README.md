@@ -1,4 +1,4 @@
-# fer_image_classifier
+# facial expression recognition classifier
 
 This is a simple CNN architecture for facial expression recognition using the FER 2013 Dataset
 
