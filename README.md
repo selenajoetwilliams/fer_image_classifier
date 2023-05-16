@@ -1,2 +1,5 @@
 # fer_image_classifier
-Adapting a basic image classifier from the pytorch documentation to handle facial expression recognition
+
+This is a simple CNN architecture for facial expression recognition using the FER 2013 Dataset
+
+Thank you to Ifrah Idrees & the Brown University Humans to Robots lab for your mentoring and support in this project!
